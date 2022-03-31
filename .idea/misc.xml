@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/202110/compose-samples-main/compose-samples-main/week3/app/src/main/java/com/example/compose/rally/Sample.kt" value="0.3484848484848485" />
+        <entry key="..\:/202110/compose-samples-main/compose-samples-main/week3/app/src/main/java/com/example/compose/rally/Sample2.kt" value="0.3951048951048951" />
+        <entry key="..\:/202110/compose-samples-main/compose-samples-main/week3/app/src/main/java/com/example/compose/rally/ui/components/RallyAlertDialog.kt" value="0.45454545454545453" />
+        <entry key="..\:/202110/compose-samples-main/compose-samples-main/week3/app/src/main/java/com/example/compose/rally/ui/components/RallyTopAppBar.kt" value="0.4898148148148148" />
+        <entry key="..\:/202110/compose-samples-main/compose-samples-main/week3/app/src/main/java/com/example/compose/rally/ui/overview/OverviewBody.kt" value="0.25" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
